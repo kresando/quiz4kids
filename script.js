@@ -143,7 +143,7 @@ function showResultBox() {
     resultBox.classList.add('active');
 
     const scoreText = document.querySelector('.score-text');
-    scoreText.textContent = `Kamu dapat ${userScore} Poin dari ${questions.length} soal`;
+    scoreText.textContent = `Kamu dapat ${userScore} Benar dari ${questions.length} soal`;
 
     const circularProgress = document.querySelector('.circular-progress');
     const progressValue = document.querySelector('.progress-value');
