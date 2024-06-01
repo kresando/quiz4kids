@@ -1,57 +1,57 @@
 let questions = [
     {
         numb: 1,
-        question: "Apa ibu kota Indonesia?",
-        answer: "A. Jakarta",
+        question: "Apa bahasa Inggris dari 'warna merah'?",
+        answer: "A. Red",
         options: [
-            "A. Jakarta",
-            "B. Surabaya",
-            "C. Bandung",
-            "D. Medan",
+            "A. Red",
+            "B. Blue",
+            "C. Green",
+            "D. Yellow",
         ]
     },
     {
         numb: 2,
-        question: "How test yes you",
-        answer: "C. yes",
+        question: "Apa bahasa Inggris dari 'buku'?",
+        answer: "B. Book",
         options: [
-            "A. no",
-            "B. yes",
-            "C. yes",
-            "D. ok"
+            "A. Pen",
+            "B. Book",
+            "C. Pencil",
+            "D. Bag",
         ]
     },
     {
         numb: 3,
-        question: "Apa warna bendera Indonesia?",
-        answer: "A. Merah dan putih",
+        question: "Apa bahasa Inggris dari 'kucing'?",
+        answer: "C. Cat",
         options: [
-            "A. Merah dan putih",
-            "B. Biru dan putih",
-            "C. Hijau dan kuning",
-            "D. Merah dan hitam"
+            "A. Dog",
+            "B. Fish",
+            "C. Cat",
+            "D. Bird",
         ]
     },
     {
         numb: 4,
-        question: "Apa yang harus kita lakukan sebelum menyeberang jalan?",
-        answer: "C. Melihat ke kiri dan kanan",
+        question: "Apa bahasa Inggris dari 'sekolah'?",
+        answer: "A. School",
         options: [
-            "A. Berlari cepat",
-            "B. Menyanyi",
-            "C. Melihat ke kiri dan kanan",
-            "D. Bermain ponse"
+            "A. School",
+            "B. Park",
+            "C. Hospital",
+            "D. Library",
         ]
     },
     {
         numb: 5,
-        question: "Apa nama planet yang kita tinggali?",
-        answer: "C. Bumi",
+        question: "Apa bahasa Inggris dari 'matahari'?",
+        answer: "D. Sun",
         options: [
-            "A. Mars",
-            "B. Venus",
-            "C. Bumi",
-            "D. Jupiter"
+            "A. Moon",
+            "B. Star",
+            "C. Earth",
+            "D. Sun",
         ]
     },
 ]
