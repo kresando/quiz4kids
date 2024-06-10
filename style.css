@@ -110,6 +110,7 @@ body {
 }
 
 .home-content .start-btn {
+    margin: 5px;
     width: 190px;
     height: 55px;
     background: #c40094;
